@@ -23,28 +23,6 @@
       "id": 2
     },
     {
-      "name": "dfs",
-      "budget": "1231",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "fgdfgdgf",
-      "budget": "123123",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
       "name": "Teste 3",
       "budget": "12.500",
       "category": {
